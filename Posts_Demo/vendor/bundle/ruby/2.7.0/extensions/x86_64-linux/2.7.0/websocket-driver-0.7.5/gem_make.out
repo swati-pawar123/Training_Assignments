@@ -1,0 +1,15 @@
+current directory: /home/swati/Pattern/Training_Assignments/Posts_Demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20210726-18846-1erg5ag.rb extconf.rb
+creating Makefile
+
+current directory: /home/swati/Pattern/Training_Assignments/Posts_Demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/swati/Pattern/Training_Assignments/Posts_Demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/swati/Pattern/Training_Assignments/Posts_Demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20210726-18846-1hu1mpb
