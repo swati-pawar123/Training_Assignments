@@ -1,0 +1,5 @@
+current directory: /home/swati/Training_Assignments/Posts_Demo/vendor/bundle/ruby/2.7.0/gems/heroku-3.99.4
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20210727-12575-jzyrua.rb extconf.rb
+extconf.rb:1:in `<main>': \e[31m heroku must be installed from cli.heroku.com. This gem is no longer available.\e[0m (RuntimeError)
+
+extconf failed, exit code 1
