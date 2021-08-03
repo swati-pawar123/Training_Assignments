@@ -106,7 +106,7 @@ puts price_calculator.initiate_billing
 
 =begin
 
-Run => ruby glosary_shop.rb
+Run => ruby glocery_shop.rb
 
 Output =>
 {"milk"=>30, "bread"=>40, "banana"=>35, "apple"=>100}

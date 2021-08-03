@@ -18,7 +18,7 @@ puts price_calculator.initiate_billing
 
 =begin
 
-Run=>ruby main_shop.rb
+Run=>ruby glocery_shop.rb
 
 Output=>
 
