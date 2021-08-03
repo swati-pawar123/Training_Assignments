@@ -48,7 +48,7 @@ puts "Area of the box is : #{a}"
 
 =begin
 
-Run=>ruby ass8.rb
+Run=>ruby assignment_8.rb
 
 Output=>
 This is Public method

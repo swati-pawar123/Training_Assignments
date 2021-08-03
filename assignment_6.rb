@@ -56,7 +56,7 @@ end
 puts calculate
 
 =begin
-Run =>ruby ass6.rb
+Run =>ruby assignment_6.rb
 
 Output=>
 

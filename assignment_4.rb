@@ -54,7 +54,7 @@ bird3.print
 
 =begin
 
-Run=>ruby ass4.rb
+Run=>ruby assignment_4.rb
 
 Output=>
 

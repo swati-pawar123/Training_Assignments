@@ -45,7 +45,7 @@ hash1.clear
 puts hash1
 
 =begin
-To run => ruby HashDemo.rb
+To run => ruby hash_demo.rb
 
 Output=>
 

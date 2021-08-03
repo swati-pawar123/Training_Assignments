@@ -36,7 +36,7 @@ ItQuack(birds)
 
 =begin
 
-Run => ruby ass7.rb
+Run => ruby assignment_7.rb
 
 Output=>
 Duck is quacking!!

@@ -15,7 +15,7 @@ puts "Area is: #{area}"
 
 
 =begin
-To run => ruby ass2.rb
+To run => ruby assignment_2.rb
 
 Output=>
 

@@ -14,7 +14,7 @@ puts skip_letters()
 
 =begin
 
-Run=>ruby ass3.rb
+Run=>ruby assignment_3.rb
 
 Output=>
 Please enter a line:

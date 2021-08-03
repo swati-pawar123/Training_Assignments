@@ -60,7 +60,7 @@ puts arr5[2,4]
 
 =begin
 
-To run=> ruby ArrayDemo.rb
+To run=> ruby array_demo.rb
 
 Output=>
 

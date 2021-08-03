@@ -55,7 +55,7 @@ puts msg[0,msg.length]
 
 
 =begin
-To Run => ruby StringDemo.rb
+To Run => ruby string_demo.rb
 
 Output=>
 

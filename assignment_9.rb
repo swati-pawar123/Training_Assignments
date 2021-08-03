@@ -46,7 +46,7 @@ cat1.eat("Miky", "Milk")
 
 =begin
 
-Run=>ruby ass9.rb
+Run=>ruby assignment_9.rb
 
 Output=>
 

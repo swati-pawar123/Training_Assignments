@@ -61,7 +61,7 @@ else
 end
 
 =begin
-Run => ruby ass5.rb
+Run => ruby assignment_5.rb
 Output=>
 each iterator example:
 1. Swati
